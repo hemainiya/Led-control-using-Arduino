@@ -1,4 +1,4 @@
-NAME:HEMA SREE S
+<img width="1494" height="948" alt="Screenshot 2025-08-21 101607" src="https://github.com/user-attachments/assets/e6049d4e-db5f-4417-9dba-3a6e55d815cb" /><img width="1374" height="943" alt="Screenshot 2025-08-21 101451" src="https://github.com/user-attachments/assets/9a368024-5c80-426e-9c57-f0bffe2d3cbc" />NAME:HEMA SREE S
 
 REGISTER NUMBER:212224040112
 # Led-control-using-Arduino
@@ -61,7 +61,8 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-08-21 at 09 35 27_bf7c7455](https://github.com/user-attachments/assets/ff546994-96d7-458c-9052-ccbdb222cb48)
+<img width="1374" height="943" alt="Screenshot 2025-08-21 101451" src="https://github.com/user-attachments/assets/2031cba4-f583-4255-8a14-ca8af656eff4" />
+
 
 ## PROGRAM
 ```
@@ -85,10 +86,10 @@ void loop() {
 
 ## OUTPUT
 LED ON
-![WhatsApp Image 2025-08-21 at 09 35 53_5363e740](https://github.com/user-attachments/assets/f936eeb9-0904-4712-9a6c-8f3240db39a0)
-LED OFF
-![WhatsApp Image 2025-08-21 at 09 35 53_e1135228](https://github.com/user-attachments/assets/cc38384b-484f-43ee-afb9-67f7c826466c)
+c<img width="1494" height="948" alt="Screenshot 2025-08-21 101607" src="https://github.com/user-attachments/assets/cc603f01-8b2f-47f2-a622-74788a0e8f96" />
 
+LED OFF
+<img width="1506" height="943" alt="Screenshot 2025-08-21 101546" src="https://github.com/user-attachments/assets/f9e4a6b2-d5d5-47e3-848f-0222aa143d31" />
 
 ## RESULT
 The project designed and implemented a system of LED control using an Arduino microcontroller and a push button successfully.
