@@ -1,4 +1,4 @@
-<img width="1494" height="948" alt="Screenshot 2025-08-21 101607" src="https://github.com/user-attachments/assets/e6049d4e-db5f-4417-9dba-3a6e55d815cb" /><img width="1374" height="943" alt="Screenshot 2025-08-21 101451" src="https://github.com/user-attachments/assets/9a368024-5c80-426e-9c57-f0bffe2d3cbc" />NAME:HEMA SREE S
+NAME:HEMA SREE S
 
 REGISTER NUMBER:212224040112
 # Led-control-using-Arduino
